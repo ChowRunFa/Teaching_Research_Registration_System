@@ -22,3 +22,8 @@
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/2b3a72de-11a8-4308-a2b5-85069a6ad617)
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/631c0c5c-ff55-4f87-a861-ec9c3978a16b)
 
+## 2023/6/6 V1.2.0
+### 1.将信息登记拆分  分别为论文登记  项目登记 课程登记   
+### 2.添加信息总览页面  展示每个教师的基本信息以及教学 项目 科研情况
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/65c73464-174c-4cfe-9df9-3c208d4ae610)
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/ffcf3119-e67f-4d34-8016-7a0a8e569c37)
