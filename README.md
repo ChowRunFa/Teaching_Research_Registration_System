@@ -43,4 +43,5 @@
 ###  - 功能：1. 初始化页面获取所有教师的信息，可以选择一个教师直接查看该教师的教学科研信息 2. 教师信息同样采用分页的方式，避免一页过多教师，并且支持搜索教师名查找教师 3.支持查找所有时间的数据以及指定时间的数据，通过一个开关控制 4. 得到的教学科研信息支持打印pdf
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/02b60cc0-9d34-4619-86c8-23326344039c)
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/3b131c1b-c3fa-40d0-9cd9-8c7ef6281ad2)
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/dc76e233-60cf-4696-bc86-1ae5a254e5da)
 
