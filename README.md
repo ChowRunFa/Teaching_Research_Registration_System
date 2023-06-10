@@ -1,4 +1,4 @@
-# Teaching_Research_Registration_System
+# AcademiaPro — Teaching_Research_Registration_System
 ### 技术栈：Flask+MySQL+Vue3.0+ElementPlus+Axios
 ### 使用前后端分离的开发方式
 ### 项目介绍：USTC 数据库系统与应用 2023春 Lab3 第三次实验
@@ -45,4 +45,19 @@
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/3b131c1b-c3fa-40d0-9cd9-8c7ef6281ad2)
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/dc76e233-60cf-4696-bc86-1ae5a254e5da)
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/24bc4ffe-ffeb-4a28-bd34-d0ae0a22a4b3)
+## 2023/6/10 V2.0.0
+# 完结撒花*★,°*:.☆(￣▽￣)/$:*.°★* 。
+## 今天把基本功能和一些没有明确要求的细节都基本完成了
+## 虽然页面的组件上有一些重复，但！是！功能并没有重复~
+## 顺便让GPT给这个系统取了个名字  就叫他 AcademiaPro 吧
+# 1. 登录页面 (tokena验证目前没有真的实现 ）
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/c3e5676f-8c90-49ec-a543-5929eaa044f5)
+# 2. 科教信息总览
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/bd145f9b-488b-4f3a-9b12-22aed0e3c4e9)
+# 3.和 V1.4.0对比 增加的 Update功能 ： 可以修改指定老师的论文 项目 课程信息
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/05285805-cb75-4416-b566-167c4d22bdf6)
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/00367517-68a5-45fd-9ddc-ee4f0a0a24b9)
+# 4. 还有根据论文 项目 课程查看对应的老师信息
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/a9ae903c-b98a-4eb9-a5c2-7a7c98d6d901)
+
 
