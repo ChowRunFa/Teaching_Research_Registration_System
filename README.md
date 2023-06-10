@@ -59,5 +59,6 @@
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/00367517-68a5-45fd-9ddc-ee4f0a0a24b9)
 # 4. 还有根据论文 项目 课程查看对应的老师信息
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/a9ae903c-b98a-4eb9-a5c2-7a7c98d6d901)
+![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/8d67ce52-69ef-4afa-9bdd-b5c8a77a6039)
 
 
