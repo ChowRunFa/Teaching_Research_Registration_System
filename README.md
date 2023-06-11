@@ -60,5 +60,11 @@
 # 4. 还有根据论文 项目 课程查看对应的老师信息
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/a9ae903c-b98a-4eb9-a5c2-7a7c98d6d901)
 ![image](https://github.com/ChowRunFa/Teaching_Research_Registration_System/assets/97417202/8d67ce52-69ef-4afa-9bdd-b5c8a77a6039)
-
+## 2023/6/11 V2.0.1
+修复了一些bug：
+1. 无法正常显示教师科研教学信息：问题可能是因为声明变量使用了reactive(ref([]))这样的声明，在本地是没问题的，在服务器上似乎就不行
+2. 重复命名导致不同组件之间的作用范围混乱，一些bug不知道是不是这个引起的，因为我并没有“控制变量”，同时修改了重复命名和变量声明，不知道是哪个修改操作起到了作用
+3. 提交表单没有反应，报错显示库函数不支持：datetime.fromisoformat方法功能作用。python时间处理datetime模块的datetime对象提供的fromisoformat方法将符合isoformat时间格式的字符串转为datetime对象，比如"2022-06-02"和"2022-06-02 07:39:00"。该方法是3.7版本新功能。
+4. 服务器的版本是python3.6，本地是3.10，于是替换该库为  dt = datetime.datetime.strptime(str_year, '%Y')，解决报错
+5. 还有点击关闭按钮，没有反应，应该是直接在组件内声明@click="变量xx=null"来清空变量属性在服务器上失效了，于是把该功能提取出来作为function，成功解决！
 
